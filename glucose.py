@@ -14,7 +14,7 @@ getglucose=[
     },
     {
         "glucose_id":"03",
-        "date":"October 03, 2022",
+        "date":"October 04, 2022",
         "glucose":"30"
     }
 ]
